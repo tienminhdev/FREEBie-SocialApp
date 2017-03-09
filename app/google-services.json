@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "727511477617",
+    "firebase_url": "https://freebie-fbc1a.firebaseio.com",
+    "project_id": "freebie-fbc1a",
+    "storage_bucket": "freebie-fbc1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727511477617:android:c1afd027788b84a7",
+        "android_client_info": {
+          "package_name": "dev.tienminh.freebie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727511477617-5v8va4f96s8jf566qpnsar1t8mi420nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.tienminh.freebie",
+            "certificate_hash": "a68d8afec882918cc4114c8416a41ebbe10f808d"
+          }
+        },
+        {
+          "client_id": "727511477617-bnkus09m6eh9vboadf23517ala0jpumq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRtYrg3o1JGh235OX48cmLgdJCikFncc8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727511477617-bnkus09m6eh9vboadf23517ala0jpumq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
